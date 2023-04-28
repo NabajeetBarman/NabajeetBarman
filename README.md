@@ -4,7 +4,6 @@ TL, DR: Principal Video Systems Engineer, Research @ Brightcove Inc.
 
 PhD (2019), MBA (2019), MSc Information Technology (2014), B.Tech Electronics Engineering (2011)
 Fellow of the Higher Education Academy (FHEA)
-Individual Committee member of British Standards Institution (BSI)
 
 - 🔭 I’m currently working on (research wise) - Quality of Experience in Multimedia Streaming (special focus area is Live Video Streaming applications), Use of Blockchain in Media and Entertainment. I was a Lecturer (Assistant Professor) in Applied Computer Science (Data Science), Kingston University, London, United Kingdom where I was teaching DS and other CS subjects to PG and UG students.
 - 🌱 I’m currently learning Pytorch.
